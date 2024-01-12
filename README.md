@@ -1,1 +1,1 @@
-It is a empty file which is used for future extentions
+As part of the MERN stack journey today I have seen the CodeSandBox
